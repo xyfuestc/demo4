@@ -5,3 +5,9 @@ int main()
 	compress();
 	return 0;
 }
+
+void compress()
+{
+	printf("compress");
+}
+
